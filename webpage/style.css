@@ -1,0 +1,110 @@
+body
+
+.header-container
+{
+  display:flex;
+  background-color:#E9CE70;
+  height:140px;
+  justify-content: center;
+  padding: 20px 50px 50px 50px;
+}
+
+.gamelogo
+{
+  width:200px;
+  opacity:100%;
+  align-items: center;
+}
+
+.youtube-container
+{
+  display: flex;
+  padding: 50px 50px 120px 120px; 
+  max-width: 1800px;
+  width: 100%;
+  justify-content: center;
+}
+
+.youtube-window
+{
+  padding: 20px;
+}
+
+.youtube-bg
+{
+  opacity:40%;
+  min-height:540px;
+}
+.youtube-desc
+{
+
+  padding: 20px 0 0 0;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:30pt;
+  min-height: 540px;
+  opacity: 100%;
+  align-items: auto;
+}
+
+ .youtube-desc-text
+{
+  padding: 20% 10% ;
+  color:#22492C;
+  text-align: center;
+  opacity:1;
+  margin-top:-500px;
+}
+
+.information-master
+{
+  display:flex;
+  flex-direction:row;
+  min-width:1200px;
+}
+.information-container
+{
+  display:flex;
+  flex-direction: row;
+  padding:2%;
+  font-size:24pt;
+}
+
+.information-individual-container
+{
+  display:flex;
+  flex-direction:column;
+  width:400px;
+}
+
+.information-individual-container .information-image
+{
+}
+
+.information-individual-container .information-image img
+{
+  width:400px;
+}
+
+.information-individual-container .information-context
+{
+  font-size:18pt;
+}
+
+
+.footer-container
+{
+  background-color:#7D2A10;
+  color:white;
+}
+
+.banner
+{
+  display:flex;
+  justify-content: center;
+}
+
+.banner img
+{
+  max-width: 1920px;
+  min-width: 1200px;
+}
